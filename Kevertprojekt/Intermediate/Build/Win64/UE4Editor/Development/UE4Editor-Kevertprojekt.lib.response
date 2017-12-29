@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Kevertprojekt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"P:\Unreal\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"G:\Work\schgamedev\Kevertprojekt\Intermediate\Build\Win64\UE4Editor\Development\Kevertprojekt\Kevertprojekt.cpp.obj"
+"G:\Work\schgamedev\Kevertprojekt\Intermediate\Build\Win64\UE4Editor\Development\Kevertprojekt\KevertprojektGameModeBase.cpp.obj"
+"G:\Work\schgamedev\Kevertprojekt\Intermediate\Build\Win64\UE4Editor\Development\Kevertprojekt\Kevertprojekt.init.gen.cpp.obj"
+"G:\Work\schgamedev\Kevertprojekt\Intermediate\Build\Win64\UE4Editor\Development\Kevertprojekt\KevertprojektGameModeBase.gen.cpp.obj"
+"P:\Unreal\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Kevertprojekt\PCLaunch.rc.res"
+"P:\Unreal\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"G:\Work\schgamedev\Kevertprojekt\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Kevertprojekt.lib"

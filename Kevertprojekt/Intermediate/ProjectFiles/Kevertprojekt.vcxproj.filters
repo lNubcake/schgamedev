@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Kevertprojekt.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{48D87C9B-63A6-4674-AF17-78F0F354574D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Kevertprojekt.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\KevertprojektEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{FDD3C527-E372-4A55-A753-76FC2492C335}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Kevertprojekt">
+			<UniqueIdentifier>{DC6C85B4-D4B1-44EE-B439-A7CAE4A0ECE7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Kevertprojekt\Kevertprojekt.Build.cs">
+			<Filter>Source\Kevertprojekt</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Kevertprojekt\Kevertprojekt.cpp">
+			<Filter>Source\Kevertprojekt</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Kevertprojekt\Kevertprojekt.h">
+			<Filter>Source\Kevertprojekt</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Kevertprojekt\KevertprojektGameModeBase.cpp">
+			<Filter>Source\Kevertprojekt</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Kevertprojekt\KevertprojektGameModeBase.h">
+			<Filter>Source\Kevertprojekt</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
