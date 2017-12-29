@@ -1,0 +1,3 @@
+G:\Work\schgamedev\Kevertprojekt\Source\Kevertprojekt\Kevertprojekt.Build.cs
+G:\Work\schgamedev\Kevertprojekt\Source\Kevertprojekt.Target.cs
+G:\Work\schgamedev\Kevertprojekt\Source\KevertprojektEditor.Target.cs
